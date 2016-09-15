@@ -34,10 +34,10 @@ angular
         controller: 'LoginCtrl',
         controllerAs: 'login'
       })
-      // .when('/loginuser', {
-      // templateUrl: 'views/movies.html',
-      // controller: 'MoviesCtrl',
-      // })
+      .when('/loginuser', {
+      templateUrl: 'views/movies.html',
+      controller: 'MoviesCtrl',
+      })
       .otherwise({
         redirectTo: '/'
       });
