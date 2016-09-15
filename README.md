@@ -1,6 +1,6 @@
 # demo-client
 
-This project is generated with [yo angular generator](https://github.com/yeoman/generator-angular)
+This project is generated with [yo angular generator]
 version 0.15.1.
 
 ## Build & development
